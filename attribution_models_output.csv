@@ -1,0 +1,19 @@
+channel,attributed_revenue,conversions,pct_credit,model
+Display Ads,151945.41,1000,18.4,First Touch
+Direct Traffic,143427.49,975,17.37,First Touch
+Referral,140531.88,1010,17.02,First Touch
+Social Media,133181.09,971,16.13,First Touch
+Search Ads,128326.5,933,15.54,First Touch
+Email,128163.02,974,15.52,First Touch
+Referral,75396.94,1010,17.59,Last Touch
+Display Ads,72713.83,1000,16.96,Last Touch
+Direct Traffic,71853.59,975,16.76,Last Touch
+Email,71575.45,974,16.7,Last Touch
+Search Ads,71093.76,933,16.58,Last Touch
+Social Media,66042.84,971,15.41,Last Touch
+Display Ads,120144.3,1000,17.31,Linear
+Referral,119420.65,1010,17.21,Linear
+Direct Traffic,115536.26,975,16.65,Linear
+Social Media,114749.55,971,16.54,Linear
+Search Ads,112452.26,933,16.21,Linear
+Email,111619.73,974,16.09,Linear
